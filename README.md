@@ -41,4 +41,4 @@ structsentry_py313/
 ---
 
 ## License
-MIT. Use, modify, distribute.
+This project is developed by @ahmxploit and licensed for All Rights Reserved.
