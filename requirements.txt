@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+streamlit
+langchain
+langchain-google-genai
+google-generativeai
+httpx
+loguru
+pydantic
+python-dotenv
+pdfminer.six
+streamlit_lottie
+matplotlib
+fpdf
